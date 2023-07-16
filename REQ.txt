@@ -1,0 +1,13 @@
+
+Pandas
+Numpy
+requests
+lxml
+appdirs
+pytz
+frozendict
+beautifulsoup4
+html5lib
+cryptography
+streamlit
+streamlit-lottie
